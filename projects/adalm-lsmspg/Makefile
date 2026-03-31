@@ -1,4 +1,4 @@
-EXAMPLE ?= iio_example
+EXAMPLE ?= basic
 
 NO_OS_USB_UART = y
 IIOD = y
