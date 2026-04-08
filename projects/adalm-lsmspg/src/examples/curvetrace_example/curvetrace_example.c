@@ -53,7 +53,7 @@
         CH_MODE_DAC,         /* channel 0 */ \
         CH_MODE_ADC,         /* channel 1 */ \
         CH_MODE_DAC_AND_ADC, /* channel 2 */ \
-        CH_MODE_UNUSED,      /* channel 3 */ \
+        CH_MODE_DAC,      /* channel 3 */ \
         CH_MODE_UNUSED,      /* channel 4 */ \
         CH_MODE_UNUSED,      /* channel 5 */ \
         CH_MODE_UNUSED,      /* channel 6 */ \
